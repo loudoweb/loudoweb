@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Ludovic Bas, an indie video game developer working at [lugludum](https://www.lugludum.com) on a narrative and tactical RPG.<br>And I also build video games for marketing campaigns, serious games and responsive e-learning content for large accounts, engaging and innovative activations for brands, interactive installations for museum, cross-platform apps for startups.</p>
+I'm Ludovic Bas, an indie video game developer working at [lugludum](https://www.lugludum.com) on a narrative and tactical RPG.<br>And I also build video games for marketing campaigns, serious games and responsive e-learning content for large accounts, engaging and innovative activations for brands, interactive installations for museum, cross-platform apps for startups. Here is my [personal site](https://www.loudoweb.fr).
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Indie since 2013<br>🌱 I'm currently learning Cocos2D.<br>🎯 Goals: to release my first pc game after so many years of development and struggle<br>🎲 I'm a board member of Lyon Game Dev, a local club of game developers.<br> </p>
+- ✨ Indie since 2013
+- 🌱 I'm currently learning Cocos2D.
+- 🎯 Goals: to release my first pc game after so many years of development and struggle
+- 🎲 I'm a board member of [Lyon Game Dev](https://lyongamedev.pro), a local club of game developers.
 
 ###
 
@@ -26,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
+
+###
+
+<h2 align="left">Some stats</h2>
 
 ###
 
