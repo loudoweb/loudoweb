@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Ludovic Bas, an indie video game  developer working @lugludum working on a narrative and tactical RPG.<br>And I also build video games for marketing campaigns, serious games and responsive e-learning content for large accounts, engaging and innovative activations for brands, interactive installations for museum, cross-platform apps for startups.</p>
+<p align="left">I'm Ludovic Bas, an indie video game developer working at [lugludum](https://www.lugludum.com) on a narrative and tactical RPG.<br>And I also build video games for marketing campaigns, serious games and responsive e-learning content for large accounts, engaging and innovative activations for brands, interactive installations for museum, cross-platform apps for startups.</p>
 
 ###
 
