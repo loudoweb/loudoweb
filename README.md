@@ -17,6 +17,12 @@ I'm Ludovic Bas, an indie video game developer working at [lugludum](https://www
 
 ###
 
+<h2 align="left">Released games:</h2>
+
+- [The Scrolling Enigma : a gamedev diary](https://lugludum.itch.io/scrolling-enigma) for the Playdate. An escape game about game development with 1-bit graphics.
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
